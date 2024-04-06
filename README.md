@@ -10,5 +10,5 @@
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 
 ## Links
-![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:[kdk23538@gmail.com](https://mail.google.com/mail/u/0/?ogbl#inbox))
+![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:[kdk23538@gmail.com](kdk23538@gmail.com))
 ## project
