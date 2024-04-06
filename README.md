@@ -4,7 +4,7 @@
 관심있는 분야는 프론트엔드이지만 백엔드에도 관심이 있습니다.
 
 ## Career
-
+![Static Badge](https://img.shields.io/badge/C%2B%2B)
 ## Links
 
 ## project
