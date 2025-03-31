@@ -14,3 +14,6 @@
 
 ### 🏆project
 아직은 없지만 추가할 예정입니다.
+
+### 42
+[![<username>'s 42 stats](https://badge.mediaplus.ma/darkblue/<username>)](https://github.com/oakoudad/badge42)
