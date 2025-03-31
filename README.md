@@ -16,4 +16,4 @@
 아직은 없지만 추가할 예정입니다.
 
 ### 42
-[![<dkim>'s 42 stats](https://badge.mediaplus.ma/darkblue/<dkim>)](https://github.com/oakoudad/badge42)
+[![dkim's 42 stats](https://badge.mediaplus.ma/darkblue/dkim)](https://github.com/oakoudad/badge42)
