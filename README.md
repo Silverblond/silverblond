@@ -9,8 +9,8 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silverblond&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silverblond)](https://github.com/silverblond/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silverblond&show_icons=true&theme=dracula)](https://github.com/silverblond/github-readme-stats)
 
 ### 🛠️Links
 ![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:[kdk23538@gmail.com](kdk23538@gmail.com))
