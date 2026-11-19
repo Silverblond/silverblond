@@ -15,8 +15,5 @@
 ### 🛠️Links
 ![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:[kdk23538@gmail.com](kdk23538@gmail.com))
 
-### 42Born2Code
-[![dkim's 42 stats](https://badge.mediaplus.ma/landscapes/dkim)](https://github.com/oakoudad/badge42)
-
 ### 🏆project
 아직은 없지만 추가할 예정입니다.
